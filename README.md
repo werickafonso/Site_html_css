@@ -1,4 +1,4 @@
-#Esse site teve como objetivo aprimorar minhas habilidades com o desenvolvimento Front-end usando HTML5, CSS3 e um pouco do JavaScript. Na estilização foi usando o FLAXBOX e o GRID para melhor dispor os elementos.
+# Esse site teve como objetivo aprimorar minhas habilidades com o desenvolvimento Front-end usando HTML5, CSS3 e um pouco do JavaScript. Na estilização foi usando o FLAXBOX e o GRID para melhor dispor os elementos.
 
 <h1>Guia de estilos</h1>
 
